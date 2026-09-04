@@ -1,6 +1,6 @@
 # CASEFILE: 47 — The Last Night at MIT University
 
-A standalone Java AWT murder-mystery investigation game.
+A standalone Java AWT mystery investigation game.
 
 ## Submission status
 
