@@ -107,19 +107,7 @@ java -jar Casefile47.jar
 
 The JAR contains the portrait resources, so the game does not depend on the `resources` folder when launched as a JAR.
 
-## Windows build
 
-If the JAR needs to be rebuilt:
-
-```text
-build.bat
-```
-
-Then run:
-
-```text
-run.bat
-```
 
 ## Controls
 
